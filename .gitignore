@@ -9,7 +9,6 @@ lerna-debug.log*
 
 # Dependencies
 node_modules
-dist
 dist-ssr
 *.local
 
@@ -33,7 +32,6 @@ dist-ssr
 
 # Build outputs
 build/
-dist/
 
 # OS generated files
 Thumbs.db
